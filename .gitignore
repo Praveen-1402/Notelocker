@@ -1,0 +1,6 @@
+.env
+.env.local
+.htaccess
+
+node_modules/
+vendor/
